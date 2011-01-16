@@ -42,6 +42,8 @@ You should see the default Rails welcome screen:
 (I am working on these notes by modifying these notes.)
 
 We are using the *Integration Manager* workflow [Figure 5-2](http://progit.org/book/ch5-1.html). I will write some notes on that after I test it.
+
+1. 0th step
 1. Develop a feature in a branch.
 1. When done, push the branch to your repo.
 1. Within your levi fork on GitHub, issue a *pull request*.
