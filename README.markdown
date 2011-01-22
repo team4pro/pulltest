@@ -1,4 +1,4 @@
-# 501k demo site
+# demo site
 
 This website uses Ruby on Rails.
 
